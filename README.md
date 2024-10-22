@@ -1,5 +1,10 @@
 # Java Cloud Azure Day 3 - Virtual Machines
 
+uploaded my backend to a virtual machine
+URL: http://20.77.48.116:5000/artists
+
+
+
 ## Learning Objectives
 
 - Learn the steps necessary to create a new VM on Azure
