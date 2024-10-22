@@ -4,6 +4,9 @@ proof:
 ## API Response Talking to Azure DB
 ![API Response Talking to Azure DB](api_response_talking_to_azure_db.png)
 
+## FRONT END
+![React Front End](frontend.png)
+
 ## More Shell Commands
 ![More Shell](more_shell.png)
 
