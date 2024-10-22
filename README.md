@@ -124,3 +124,6 @@ java -jar TodoApp-0.0.1.jar &
 
 - Deploy your Spring App to a server running on an Azure VM.
 - Document your success with screenshots as we will probably be deleting the machines at the end of the day in preparation for tomorrow.
+
+
+![Screenshot](assets/screenshot-backend.png)
