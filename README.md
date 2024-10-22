@@ -1,5 +1,9 @@
 # Java Cloud Azure Day 3 - Virtual Machines
 
+![alt text](screenshots/ip-address-azure.png)
+![alt text](screenshots/ip-address-endpoint.png)
+![alt text](screenshots/terminal.png)
+
 ## Learning Objectives
 
 - Learn the steps necessary to create a new VM on Azure
