@@ -1,4 +1,4 @@
-# Java Cloud Azure Day 3 - Virtual Machines
+# Java Cloud Azure Day 3 - Virtual Machines 
 
 ## Learning Objectives
 
