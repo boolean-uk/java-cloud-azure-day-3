@@ -1,5 +1,11 @@
 # Java Cloud Azure Day 3 - Virtual Machines
 
+# Backend up and running
+![alt text](azure-day-3.png)
+
+# Frontend up and running
+![alt text](azure-day-3-frontend.png)
+
 ## Learning Objectives
 
 - Learn the steps necessary to create a new VM on Azure
