@@ -9,7 +9,7 @@
 3. Add Inbound Role (changed this to port 4000 later)
 ![](images/03_Add_inbound_rule.png)
 
-NOTE! The VM got deleted before I could move on to thi next step, did the above steps again and then proceeded with the following steps.  
+NOTE! The VM got deleted before I could move on to this next step, did the above steps again and then proceeded with the following steps.  
 4. SSH into VM
 
 5. sudo apt install java  
