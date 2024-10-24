@@ -1,3 +1,17 @@
+# Screenshots
+
+### Azure Portal Server
+
+![portal_server.png](portal_server.png)
+
+### Spring App Server
+
+![spring_app_server.png](spring_app_server.png)
+
+### Server API
+
+![server_api.png](server_api.png)
+
 # Java Cloud Azure Day 3 - Virtual Machines
 
 ## Learning Objectives
